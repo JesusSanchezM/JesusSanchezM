@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning stastistics, probability and econometrics 📊📈
 - 💞️ I’m looking to collaborate on any place that use data 🗂📝
 - 📫 How to reach me: 
-*https://www.linkedin.com/in/alexis-sanchez-b64694247
-*jes.alxis.8585@gmail.com
+1. https://www.linkedin.com/in/alexis-sanchez-b64694247
+2. jes.alxis.8585@gmail.com
 
-I'm currenly studying my last year on university in economics. 😄🏫🏛
-Huge fan of data and all the information it can provide us if we use it with the right statistical methods.
-Like to play classical guitar and meet people from all around the world 🌎🏞
+- I'm currenly studying my last year on university in economics. 😄🏫🏛
+- Huge fan of data and all the information it can provide us if we use it with the right statistical methods.
+- Like to play classical guitar and meet people from all over the world 🌎🏞
 
 <!---
 JesusSanchezM/JesusSanchezM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
