@@ -9,6 +9,7 @@
 - I'm currenly studying my last year on university in economics. 😄🏫🏛
 - Huge fan of data and all the information it can provide us if we use it with the right statistical methods.
 - Like to play classical guitar and meet people from all over the world 🌎🏞
+- Languages: Spanish/English/German in process...
 
 <!---
 JesusSanchezM/JesusSanchezM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
