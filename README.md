@@ -7,7 +7,7 @@
 2. jes.alxis.8585@gmail.com
 
 - I'm currenly studying my last year on university in economics. 😄🏫🏛
-- Huge fan of data and all the information it can provide us if we use it with the right statistical methods.
+- Huge fan of data and all the information it can provide us if we use the right statistical methods.
 - Like to play classical guitar and meet people from all over the world 🌎🏞
 - Languages: Spanish/English/German in process...
 
